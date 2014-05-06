@@ -25,6 +25,11 @@ public class MadeiralOre extends Block {
 		
     @Override
     public Item getItemDropped(int metadata, Random random, int fortune) {
-        return ModItems.mollioniteCrystal;
+        return ModItems.madeiralCakeSlice; 
+    }
+    
+    @Override
+    public int quantityDropped(Random par1Random) {
+            return 1 + par1Random.nextInt(3);
     }
 }
