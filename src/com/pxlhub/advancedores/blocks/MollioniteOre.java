@@ -13,7 +13,7 @@ public class MollioniteOre extends Block {
 	
 	public MollioniteOre() {
 		
-		super(Material.glass);
+		super(Material.rock);
 		setBlockName("mollioniteOre");
 		setCreativeTab(CreativeTabs.tabBlock);
 		setHarvestLevel("pickaxe",2);

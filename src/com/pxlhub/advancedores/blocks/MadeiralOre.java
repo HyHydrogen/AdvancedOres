@@ -13,7 +13,7 @@ public class MadeiralOre extends Block {
 	
 	public MadeiralOre() {
 		
-		super(Material.glass);
+		super(Material.rock);
 		setBlockName("madeiralOre");
 		setCreativeTab(CreativeTabs.tabBlock);
 		setHarvestLevel("pickaxe",2);
