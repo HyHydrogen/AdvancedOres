@@ -15,4 +15,4 @@ for it, but if you do, enjoy!
 Every file contained within the repo is welcome for use, you can edit it, burn it and the what-not. I only request that
 if you do end up making something with this and releasing it to the public, that you give me credit where credit is due.
 
-Enjoy!
+Enjoy the mod!
